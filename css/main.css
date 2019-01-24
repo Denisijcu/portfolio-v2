@@ -341,9 +341,10 @@ main#home h1 {
 }
 
 #btnMenu{
-    min-height: 5vh;
-    min-width: 10vw;
+    min-height: 4vh;
+    min-width: 8vw;
     border-radius: 50%;
+    margin-left: 16px;
     cursor: pointer;
 }
 
