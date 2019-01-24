@@ -341,14 +341,16 @@ main#home h1 {
 }
 
 #btnMenu{
-    min-height: 4vh;
-    min-width: 8vw;
+    min-height: 6vh;
+    min-width: 10vw;
     border-radius: 50%;
-    margin-left: 16px;
+    margin-left: 12px;
+    box-shadow: 4px 4px 4px;
+    border: 1px solid black;
     cursor: pointer;
 }
 
-#btnMenu:hover{ border-color:yellow; color: white;}
+#btnMenu:hover{ border:2px solid yellow; color: black;}
 .animated {
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
